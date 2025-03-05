@@ -138,10 +138,10 @@ This word is displayed as (_), meaning that the letters are blank yet.
 The player clicks a letter:
 
 
-✅ Correct letters → Displays on the _ that corresponds to the letter
+✅ Correct letters → Displays on the _ that corresponds to the letter and turns green 
 
 
-❌ Incorrect letters → Decrease one attempt 
+❌ Incorrect letters → Decrease one attempt and turn red 
 
 
 The game ends when:
@@ -201,6 +201,12 @@ Includes the "Play Again" button.
 
 
 Bigger buttons for better usability.
+
+
+Correct letters turn green and incorrect letters turn red 
+
+
+Brown letters and pink background 
 
 
 Hover effects & animations for an interactive experience.
