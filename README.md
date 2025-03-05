@@ -298,4 +298,4 @@ We used Chat GPT as assistant to perform debugging, code checks, and help with o
 
 🎉 Thank you for checking out this project! Have fun playing Hangman! 🎮🔥
 
-
+We used Chat GPT as assistant to perform debugging, code checks, and help with overall questions. 
