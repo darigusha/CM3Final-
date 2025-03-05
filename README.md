@@ -94,10 +94,10 @@ bash
 CopyEdit
 
 
-git clone https://github.com/your-username/hangman-game.git
+git clone https://github.com/darigusha/CM3Final
 
 
-cd hangman-game
+cd project.py
 
 
 
