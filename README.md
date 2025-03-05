@@ -292,6 +292,8 @@ How to manage game state with Python functions.
 
 This project is open-source and available under the MIT License. Feel free to modify and use it! 🚀
 
+We used Chat GPT as assistant to perform debugging, code checks, and help with overall questions. 
+
 
 
 🎉 Thank you for checking out this project! Have fun playing Hangman! 🎮🔥
